@@ -4,7 +4,7 @@
 }
 
 .breadcrumb-item{
-	margin-left: 180px;
+	margin: auto;
 	font-size: 20px;
 }
 
@@ -17,5 +17,4 @@ a:link{
 
 .music{
 	height: 35px;
-	margin-left: 180px; 
 }

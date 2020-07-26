@@ -5,42 +5,12 @@ body{
     background: -o-linear-gradient(130deg, #ffffa8 32%, #f5d8ab 60%);
 }
 
-.wei{
-	position:absolute;
-	left: 0%;
-}
 
-.kazu{
-	position:absolute;
-	right: 0px;
-	top: -45px;
-}
-
-.con{
-	position:absolute;
-	left: 22%;
-	top: 80px;
-}
-
-.f1{
-	position:absolute;
-	left: 0%;
-	top: 450px;
-}
-
-.f2{
-	position:absolute;
-	right: 5%;
-	top: 430px;
-}
 
 .text{
-	position: absolute;
-	left: 25%;
-	bottom: 10%;
 	font-family: Microsoft JhengHei;
 	color: #8952c4;
-	text-shadow: 7px 20px 6px #333333;
+	
 	font-size: 30px;
 	font-weight: bold;
 
