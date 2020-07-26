@@ -1,5 +1,13 @@
 body{
-	background-color: #ffffa8;
+	background: linear-gradient(130deg, #ffffa8 32%, #f5d8ab 60%);
+    background: -moz-linear-gradient(130deg, #ffffa8 32%, #f5d8ab 60%);
+    background: -webkit-linear-gradient(130deg, #ffffa8 32%, #f5d8ab 60%);
+    background: -o-linear-gradient(130deg, #ffffa8 32%, #f5d8ab 60%);
+}
+
+.wei{
+	position:absolute;
+	left: 0%;
 }
 
 .kazu{
@@ -8,13 +16,32 @@ body{
 	top: -45px;
 }
 
-.wei{
-	position:absolute;
-	left: 0px;
-}
-
 .con{
 	position:absolute;
-	left: 230px;
-	top: 20px;
+	left: 22%;
+	top: 80px;
+}
+
+.f1{
+	position:absolute;
+	left: 0%;
+	top: 450px;
+}
+
+.f2{
+	position:absolute;
+	right: 5%;
+	top: 430px;
+}
+
+.text{
+	position: absolute;
+	left: 25%;
+	bottom: 10%;
+	font-family: Microsoft JhengHei;
+	color: #8952c4;
+	text-shadow: 7px 20px 6px #333333;
+	font-size: 30px;
+	font-weight: bold;
+
 }
