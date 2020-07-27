@@ -2,8 +2,28 @@ body{
 	background-image: linear-gradient(to top, #a18cd1, #fbc2eb);
 }
 
+.wei{
+   	border-collapse: collapse;
+   	width: 1400px; 	
+   	/*自動斷行*/
+   	word-wrap: break-word;
+   	table-layout: fixed;
+   }
+
+td{
+	padding:20px;
+	font-family: Microsoft JhengHei;
+	color: #ffffff;
+	font-weight: bold;
+}
+
 .t{
 	font-family: Microsoft JhengHei;
 	color: #525054;
 	font-weight: bold;
 }
+
+.d{
+	text-align: center;
+}
+

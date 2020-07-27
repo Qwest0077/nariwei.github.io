@@ -1,7 +1,12 @@
-.text{
-	color: #8952c4;
-	font-family: fantasy;
-	font-style: oblique; 
+body{
+	background-image: linear-gradient(to top, #822f7a, #d99ed1);
+}
+table{
+	margin-top: -15px;
+}
+
+.im1{
+	margin-left: -50px;
 }
 
 .i{
@@ -9,5 +14,15 @@
 }
 
 td{
-	font-family: fantasy;
+	color: black;
+	font-family: fantasy; 
 }
+
+h5{
+	color: #fcb442;
+	font-family: Microsoft JhengHei;
+	font-weight: bold;
+	margin:20px;
+	margin-top: -50px
+}
+
