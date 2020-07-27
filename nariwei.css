@@ -3,6 +3,11 @@ body{
 }
 table{
 	margin-top: -15px;
+	border-collapse: collapse;
+   	width: 1400px; 	
+   	/*自動斷行*/
+   	word-wrap: break-word;
+   	table-layout: fixed;
 }
 
 .im1{
