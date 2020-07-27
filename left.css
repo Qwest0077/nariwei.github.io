@@ -1,0 +1,18 @@
+ul{
+	font-family: Microsoft JhengHei;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #1b2d87;
+}
+
+a{
+	font-family: Microsoft JhengHei;
+	font-size: 20px;
+	font-weight: bold;
+	color: #8952c4;
+}
+
+a:hover {
+	color: #1b2d87;
+}
+

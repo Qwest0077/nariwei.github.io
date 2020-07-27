@@ -4,11 +4,12 @@ body{
 
 .wei{
    	border-collapse: collapse;
-   	width: 1400px; 	
-   	/*自動斷行*/
-   	word-wrap: break-word;
-   	table-layout: fixed;
+   	width: 1400px;
    }
+
+table{
+	margin-bottom: 40px;
+}
 
 td{
 	padding:20px;
@@ -21,6 +22,7 @@ td{
 	font-family: Microsoft JhengHei;
 	color: #525054;
 	font-weight: bold;
+	text-align: center;
 }
 
 .d{
