@@ -3,18 +3,15 @@ body{
 }
 table{
 	margin-top: -15px;
+	margin-right: 300px; 
 }
-
-.i{
-	margin-left: 20px;
-}
-
 td{
 	color: black;
 	font-family: fantasy; 
 }
 
 h5{
+	text-align: left;
 	color: #fcb442;
 	font-family: Microsoft JhengHei;
 	font-weight: bold;
