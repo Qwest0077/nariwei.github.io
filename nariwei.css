@@ -3,6 +3,8 @@ body{
 }
 table{
 	margin-top: -15px;
+	border-collapse: collapse;
+   	width: 900px,90px,150px; 
 }
 
 .i{
