@@ -2,6 +2,49 @@ body{
 	background-image: linear-gradient(to top, #a18cd1, #fbc2eb);
 }
 
+header{
+	background-image: url(Banner2.png);
+	background-size: cover;
+	width: 100%;
+}
+a:link{
+	text-align: center;
+	color: #346ff7;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+a:visited {
+　text-align: center;
+	color: #38782a;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+a:hover {
+　　text-align: center;
+	color: #0cb2c4;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+.music{
+	height: 35px;
+}
+
+aside{
+
+     float: left;
+}
+
+article{
+	float: left;
+ 	width: calc(50% - 100px);
+ 	margin: 0 50px 50px 50px;
+}
+
+
+
 .wei{
    	border-collapse: collapse;
    	width: 1000px;
