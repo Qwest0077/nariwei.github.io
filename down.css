@@ -1,12 +1,6 @@
 body{
-	background: linear-gradient(130deg, #f5d8ab 32%, #ffffa8 60%);
-    background: -moz-linear-gradient(130deg, #f5d8ab 32%, #ffffa8 60%);
-    background: -webkit-linear-gradient(130deg, #f5d8ab 32%, #ffffa8 60%);
-    background: -o-linear-gradient(130deg, #f5d8ab 32%, #ffffa8 60%);
+	background-image: linear-gradient(to top, #96e3a8, #c2a0e8);
 }
-
-
-
 
 .text{
 	font-family: Microsoft JhengHei;

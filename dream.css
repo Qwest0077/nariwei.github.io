@@ -1,73 +1,17 @@
 body{
-	background-image: linear-gradient(to top, #a18cd1, #fbc2eb);
+	background-color: #c2a0e8;
 }
 
-header{
-	background-image: url(Banner2.png);
-	background-size: cover;
-	width: 100%;
-}
-a:link{
-	text-align: center;
-	color: #346ff7;
-	font-family: fantasy;
-	font-weight: bold;
-}
-
-a:visited {
-　text-align: center;
-	color: #38782a;
-	font-family: fantasy;
-	font-weight: bold;
-}
-
-a:hover {
-　　text-align: center;
-	color: #0cb2c4;
-	font-family: fantasy;
-	font-weight: bold;
-}
-
-.music{
-	height: 35px;
-}
-
-aside{
-
-     float: left;
-}
-
-article{
-	float: left;
- 	width: calc(50% - 100px);
- 	margin: 0 50px 50px 50px;
-}
-
-
-
-.wei{
-   	border-collapse: collapse;
-   	width: 1000px;
-   }
-
-table{
-	margin-bottom: 40px;
-}
-
-td{
-	padding:10px;
+h3{
 	font-family: Microsoft JhengHei;
-	color: #ffffff;
-	font-weight: bold;
+	font-size: 20px;
+	font-weight: bolder;
+	color: black;
 }
 
-.t{
+a{
 	font-family: Microsoft JhengHei;
-	color: #525054;
+	font-size: 18px;
 	font-weight: bold;
+	color: #1b2d87;
 }
-
-.d{
-	text-align: center;
-}
-

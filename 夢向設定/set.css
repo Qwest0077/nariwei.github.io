@@ -1,0 +1,33 @@
+body{
+	background-image: linear-gradient(to top, #fbc2eb, #c2a0e8);
+	float: left;
+ 	width: calc(50% - 100px);
+ 	margin: 0 50px 50px 50px;
+}
+
+table{
+	margin-bottom: 10%;
+}
+
+td{
+	padding:10px;
+	font-family: Microsoft JhengHei;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+.t{
+	font-family: Microsoft JhengHei;
+	color: #525054;
+	font-weight: bold;
+}
+
+.d{
+	
+}
+
+.wei{
+   	border-collapse: collapse;
+   	width: 1000px;
+}

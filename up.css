@@ -1,18 +1,31 @@
-.breadcrumb{
-	margin-bottom: 0px;
-	background-color: #c5afdb;
-}
+body{
+	background-image: url(Banner1.png);
+	background-size: cover;
+	width: 100%;
 
-.breadcrumb-item{
-	margin: auto;
-	font-size: 20px;
 }
-
+table{
+	margin-top: 5px;
+}
 a:link{
 	text-align: center;
-  	color: #ffffff;
-  	font-family: fantasy;
-  	font-weight: bold;
+	color: #346ff7;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+a:visited {
+　text-align: center;
+	color: #38782a;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+a:hover {
+　　text-align: center;
+	color: #0cb2c4;
+	font-family: fantasy;
+	font-weight: bold;
 }
 
 .music{
