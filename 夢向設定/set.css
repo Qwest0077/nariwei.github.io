@@ -32,5 +32,11 @@ td{
 
 .wei{
    	border-collapse: collapse;
-   	
+}
+
+.s5{
+	font-family: Microsoft JhengHei;
+	color: #1b2d87;
+	font-weight: bold;
+	text-align: left;
 }
