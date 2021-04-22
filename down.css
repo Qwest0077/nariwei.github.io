@@ -1,5 +1,8 @@
 body{
 	background-image: linear-gradient(to top, #96e3a8, #c2a0e8);
+	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
 }
 
 .text{
