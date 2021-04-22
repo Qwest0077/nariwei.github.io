@@ -1,5 +1,8 @@
 body{
-	background-color: #c2a0e8;
+	background-image: linear-gradient(to top, #fbc2eb, #c2a0e8);
+	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
 }
 
 h3{

@@ -1,15 +1,15 @@
+html{ 
+	overflow-x:hidden; 
+	overflow-y:hidden;
+}
 body{
 	background-color: #c2a0e8;
 }
 table{
-	background-image: url(Banner1.png);
-	background-repeat: no-repeat;
-  	background-attachment: fixed;  
-  	background-size: cover;
 	margin-top: 1%;
 }
 a{
-	font-size: 10%;
+	font-size: 95%;
 }
 a:link{
 	text-align: center;
